@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BDAndroid1</string>
+    <string name="tvNP">Crear producto</string>
+    <string name="etNameHint">Nombre producto</string>
+    <string name="etPriceHint">Precio producto</string>
+    <string name="etDescriptionHint">Descripcion producto</string>
+    <string name="btnSaveProduct">Guardar producto</string>
+    <string name="btnSeeProduct">Ver producto</string>
+
+    <string name="tvListado">Listado de productos</string>
+    <string name="tvProducto">Producto</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvPrecio">Precio</string>
+    <string name="tvDescripcion">Descripcion</string>
+
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnVolver">Volver</string>
+
+</resources>

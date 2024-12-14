@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558090766216",
+    "firebase_url": "https://bdandroid1-f92b8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bdandroid1-f92b8",
+    "storage_bucket": "bdandroid1-f92b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558090766216:android:6932ab7c4b9e53a3539c3d",
+        "android_client_info": {
+          "package_name": "com.example.bdandroid1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzfj6fnepxhxI9NUQ4IUwSid9Yw3r7HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
